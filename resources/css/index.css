@@ -1,0 +1,21 @@
+/* Universal Styles */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+/* Header Styles */ 
+.desktop-header {
+    display: block;
+}
+.desktop-header .heading-left {
+    text-align: left;
+}
+.desktop-header .heading-right {
+    text-align: right;
+}
+
+/* Section 1 */
+
+
+/*Leaning Section */
